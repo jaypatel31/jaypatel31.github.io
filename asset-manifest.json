@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2257596.chunk.css",
-    "main.js": "/static/js/main.447116c8.chunk.js",
-    "main.js.map": "/static/js/main.447116c8.chunk.js.map",
+    "main.css": "/static/css/main.3d77e324.chunk.css",
+    "main.js": "/static/js/main.9a660cfd.chunk.js",
+    "main.js.map": "/static/js/main.9a660cfd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
     "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
     "static/css/2.68fdb14c.chunk.css": "/static/css/2.68fdb14c.chunk.css",
-    "static/js/2.a8752784.chunk.js": "/static/js/2.a8752784.chunk.js",
-    "static/js/2.a8752784.chunk.js.map": "/static/js/2.a8752784.chunk.js.map",
+    "static/js/2.80e7fa71.chunk.js": "/static/js/2.80e7fa71.chunk.js",
+    "static/js/2.80e7fa71.chunk.js.map": "/static/js/2.80e7fa71.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.68fdb14c.chunk.css.map": "/static/css/2.68fdb14c.chunk.css.map",
-    "static/css/main.c2257596.chunk.css.map": "/static/css/main.c2257596.chunk.css.map",
-    "static/js/2.a8752784.chunk.js.LICENSE.txt": "/static/js/2.a8752784.chunk.js.LICENSE.txt",
+    "static/css/main.3d77e324.chunk.css.map": "/static/css/main.3d77e324.chunk.css.map",
+    "static/js/2.80e7fa71.chunk.js.LICENSE.txt": "/static/js/2.80e7fa71.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/SegoeWP.833a7748.woff",
-    "static/media/Home.a0f29e61.gif": "/static/media/Home.a0f29e61.gif",
+    "static/media/Home.63d61f12.gif": "/static/media/Home.63d61f12.gif",
     "static/media/blog-lg.51bfccfb.png": "/static/media/blog-lg.51bfccfb.png",
     "static/media/blog.22a8d97d.png": "/static/media/blog.22a8d97d.png",
     "static/media/book-lg.5b0358bf.png": "/static/media/book-lg.5b0358bf.png",
     "static/media/book.cf156ea3.png": "/static/media/book.cf156ea3.png",
+    "static/media/contact.33679331.svg": "/static/media/contact.33679331.svg",
     "static/media/covid-lg.00778077.png": "/static/media/covid-lg.00778077.png",
     "static/media/covid.7a28243c.png": "/static/media/covid.7a28243c.png",
     "static/media/education.efb2f4fe.svg": "/static/media/education.efb2f4fe.svg",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.f027f2bf.js",
     "static/css/2.68fdb14c.chunk.css",
-    "static/js/2.a8752784.chunk.js",
-    "static/css/main.c2257596.chunk.css",
-    "static/js/main.447116c8.chunk.js"
+    "static/js/2.80e7fa71.chunk.js",
+    "static/css/main.3d77e324.chunk.css",
+    "static/js/main.9a660cfd.chunk.js"
   ]
 }
